@@ -2,7 +2,8 @@
 
 This is a wrap up repo, and you'll see the source code in other repositories described below.
 
-We've deployed the contracts to `Kovan`, `Mumbai`, `BSC Testnet`, and `Avalanche FUJI`, which means you can store the tamper-proof and variable data to `IPFS` via `smart contracts` on any above chains, and you could get the data of any NFTs from any blockchains via smart contracts on any above chains as well.
+We've deployed the contracts to `Kovan`, `Mumbai`, `BSC Testnet`, and `Avalanche FUJI`, which means developers can store the tamper-proof and variable data to `IPFS` via `smart contracts` on any above chains, and they can get the data of any NFT on any blockchain via smart contracts as well. The former one will free the limitations of blocks on-chain, and the latter one will enable all games built on any chain to get all-chain NFT holders on-board without needing to bridge NFTs back and forth.
+
 
 ## What is Omnidata protocol
 
